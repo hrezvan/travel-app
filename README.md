@@ -1,6 +1,6 @@
 ## TRAVL App
 
-This project is a tavel guide responsive app and was developed using React.
+This project is a tavel guide <u>responsive</u> app and was developed using React.
 
 It includes different parts which each of them will be explained.
 
@@ -25,8 +25,7 @@ when you click on cards, app navigates to a services page(/services).
 ### When you go on mobile, because of the resonsivity of the app, Cards will rearrange in columns.
 
 -----
-![](images/cards.jpg)
-
+![cards](https://user-images.githubusercontent.com/60284829/120166418-caf1aa00-c211-11eb-8d84-72e84f0a2373.JPG)
 -----
 
 ## Footer
@@ -41,5 +40,14 @@ In addition there are four columns:
 4. Social Media 
 
 And in the end we have a division named footer-logo to put app's icon and app's social media addresses.
+-----
+![footer](https://user-images.githubusercontent.com/60284829/120166487-df35a700-c211-11eb-8567-f3266dae9743.JPG)
 
-##
+-----
+## APP View
+
+-----
+![mygif](https://user-images.githubusercontent.com/60284829/120167099-9500f580-c212-11eb-8ca3-2876fe1cc741.gif)
+
+
+-----
