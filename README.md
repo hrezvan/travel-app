@@ -25,7 +25,7 @@ when you click on cards, app navigates to a services page(/services).\
 ### When you go on mobile, because of the resonsivity of the app, Cards will rearrange in columns.
 
 -----
-<img src='./public/images/cards.jpg'>
+![](./public/images/cards.jpg)
 
 -----
 
