@@ -13,7 +13,9 @@ When we go on mobile, buttons will disappear and will be replaced in a column sh
 ## Hero Section
 
 When the app compiles seccessfuly the first thing that a user sees is Hero Section. in this section we have a video that autoplayes in a loop and two buttons for signing up and watching trailer. also we have a title "Visit IRAN"
+<img src='images/cards.jpg' />
 
+-----
 ## Cards
 
 For this section, we put five cards that each of them is a suggestion for amazing characteristics of Iran.each card has an image with a paragraph below. when you hover on the image, the scale of the image changes. also in
